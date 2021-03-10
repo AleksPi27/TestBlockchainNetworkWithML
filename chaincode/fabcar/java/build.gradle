@@ -1,0 +1,71 @@
+/*
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+plugins {
+    id 'java-library-distribution'
+    //id 'jacoco'
+}
+
+group 'org.hyperledger.fabric.samples'
+version '1.0-SNAPSHOT'
+
+dependencies {
+    implementation 'org.hyperledger.fabric-chaincode-java:fabric-chaincode-shim:2.+'
+    compileOnly 'com.owlike:genson:1.5'
+//    testImplementation 'org.hyperledger.fabric-chaincode-java:fabric-chaincode-shim:2.+'
+    implementation 'com.owlike:genson:1.5'
+    implementation "org.springframework.boot:spring-boot-starter-web:2.4.2"
+    implementation 'com.squareup.okhttp3:okhttp:3.14.6'
+}
+
+repositories {
+    maven {
+        url "https://hyperledger.jfrog.io/hyperledger/fabric-maven"
+    }
+    jcenter()
+    maven {
+        url 'https://jitpack.io'
+    }
+}
+
+//checkstyle {
+//    toolVersion '8.21'
+//    configFile file("config/checkstyle/checkstyle.xml")
+//}
+//
+//checkstyleMain {
+//    source ='src/main/java'
+//}
+//
+//checkstyleTest {
+//    source ='src/test/java'
+//}
+
+//jacocoTestCoverageVerification {
+//    afterEvaluate {
+//        classDirectories = files(classDirectories.files.collect {
+//            fileTree(dir: it, exclude:  [
+//                    'org/hyperledger/fabric/samples/fabcar/Start.*'
+//            ])
+//        })
+//    }
+//    violationRules {
+//        rule {
+//            limit {
+//                minimum = 1.0
+//            }
+//        }
+//    }
+//
+//    finalizedBy jacocoTestReport
+//}
+//
+//test {
+//    useJUnitPlatform()
+//    testLogging {
+//        events "passed", "skipped", "failed"
+//    }
+//}
+
+//check.dependsOn jacocoTestCoverageVerification

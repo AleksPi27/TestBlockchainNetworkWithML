@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01d64273-78a0-4505-a0fa-45dff906a75f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/fabcar/Fabcar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/hyperledger/fabric/samples/fabcar/FabcarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/hyperledger/fabric/samples/fabcar/SumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newSmartContract/src/main/java/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newSmartContract/src/main/java/SumModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newSmartContract/src/main/java/SumQueryResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newSmartContract/src/main/java/Summator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/../go/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/fabcar/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/fabcar/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/fabcar/CarQueryResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/fabcar/SumQueryResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/fabcar/FabCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/hyperledger/fabric/samples/fabcar/CarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/hyperledger/fabric/samples/fabcar/FabCarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/docker/docker-compose-ca.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/docker/docker-compose-ca.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/docker/docker-compose-couch.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/docker/docker-compose-couch.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/docker/docker-compose-e2e.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/docker/docker-compose-e2e.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/docker/docker-compose-test-net.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/docker/docker-compose-test-net.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/network.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/network.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/organizations/ccp-generate.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/organizations/ccp-generate.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/organizations/cryptogen/crypto-config-orderer.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/organizations/cryptogen/crypto-config-orderer.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/organizations/cryptogen/crypto-config-org1.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/organizations/cryptogen/crypto-config-org1.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/organizations/cryptogen/crypto-config-org2.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/organizations/cryptogen/crypto-config-org2.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/organizations/fabric-ca/registerEnroll.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/organizations/fabric-ca/registerEnroll.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/scripts/deployCC.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/scripts/deployCC.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test-network/scripts/envVar.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test-network/scripts/envVar.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fabcar" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fabcar" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fabcar" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fabcar" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fabcar" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="distribution" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fabcar" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1npGmEHFJx8orYmUPEhmkJ5Xq7l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../fabcar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.hyperledger.fabric.samples.fabcar" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.java [clean]">
+    <configuration name="java [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java [installDist]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="installDist" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.java [clean]" />
+        <item itemvalue="Gradle.java [build]" />
+        <item itemvalue="Gradle.java [installDist]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01d64273-78a0-4505-a0fa-45dff906a75f" name="Default Changelist" comment="" />
+      <created>1612079777430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612079777430</updated>
+      <workItem from="1612079778983" duration="8427000" />
+      <workItem from="1612192720245" duration="14996000" />
+      <workItem from="1612340086657" duration="1462000" />
+      <workItem from="1612513252014" duration="15090000" />
+      <workItem from="1612639374431" duration="1147000" />
+      <workItem from="1613148562706" duration="10494000" />
+      <workItem from="1613539831841" duration="205000" />
+      <workItem from="1614681596239" duration="3800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/fabcar/Sum.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
